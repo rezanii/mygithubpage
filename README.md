@@ -1,9 +1,6 @@
 <pre>
 🟩🟩🟩🟩🟥🟩🟩🟩🟩  README.md 
 –--------------------------------------------------------------
-- /* TODO: Write something that sounds smart for this README */
-- /* TODO: Umm, what should I write? */
-- /* TODO: Nevermind... */
 + Hi! My name is Ahmad Ridwan Rezani! 👋
 + I'm a Software Engineer from Indonesia! 🇮🇩
 </pre>
@@ -34,12 +31,13 @@
 └─👀 <img height="15px" src="https://komarev.com/ghpvc/?username=rezanii" alt="rezanii">
 </pre>
 
+<pre>
 <p align="center">
   <a href="https://github.com/rezanii">
-    <img align="left" src="https://github.com/rezanii/ghstat/blob/master/generated/languages.svg" />
+    <img align="left" src="https://github.com/rezanii/gitstat/blob/master/generated/languages.svg" />
   </a>
   <a href="https://github.com/rezanii">
-    <img align="right" src="https://github.com/rezanii/ghstat/blob/master/generated/overview.svg" />
+    <img align="right" src="https://github.com/rezanii/gitstat/blob/master/generated/overview.svg" />
   </a>
 </p>
-
+</pre>
