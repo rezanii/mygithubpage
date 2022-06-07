@@ -1,11 +1,12 @@
-42 🟩🟩🟩🟩🟥  README.md 
+<pre>
+🟩🟩🟩🟩🟥🟩🟩🟩🟩  README.md 
 –--------------------------------------------------------------
 - /* TODO: Write something that sounds smart for this README */
 - /* TODO: Umm, what should I write? */
 - /* TODO: Nevermind... */
 + Hi! My name is Ahmad Ridwan Rezani! 👋
 + I'm a Software Engineer from Indonesia! 🇮🇩
-```
+</pre>
 
 <pre>
 👨‍💻 <b>/home/arrezani</b>
