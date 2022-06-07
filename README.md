@@ -31,7 +31,7 @@
 └─👀 <img height="15px" src="https://komarev.com/ghpvc/?username=rezanii" alt="rezanii">
 </pre>
 
-<pre>
+
 <p align="center">
   <a href="https://github.com/rezanii">
     <img align="left" src="https://github.com/rezanii/gitstat/blob/master/generated/languages.svg" />
@@ -40,4 +40,4 @@
     <img align="right" src="https://github.com/rezanii/gitstat/blob/master/generated/overview.svg" />
   </a>
 </p>
-</pre>
+
