@@ -3,7 +3,18 @@
 –--------------------------------------------------------------
 + Hi! My name is Ahmad Ridwan Rezani! 👋
 + I'm a Software Engineer from Indonesia! 🇮🇩
+
+Currently working with Process Automation, but I love learn new thing in programming such as Javascript, Kotlin, Python.  
 </pre>
+
+### Tools:
+<p>
+    <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
+    <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
+    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://gpvc.arturio.dev/rezanii" />
+</p>
 
 <pre>
 👨‍💻 <b>/home/arrezani</b>
@@ -13,6 +24,8 @@
 │ ├─ 🏫 <a href="https://telkomuniversity.ac.id">Universitas Telkom</a> - <b>Bachelor Informatics Engineering</b>
 | ├─ 🏫 <a href="https://binus.ac.id">Universitas Bina Nusantara</a> - <b>Master Informatics Engineering</b>
 │ └─ 🛑 <a href="https://bangkit.academy/">Bangkit Academy</a> - Machine Learning Path, 2022
+│ └─ 👯 I’m looking to collaborate on Automation Project, Mobile Apps.
+│ └─ 💬 Ask me about anything.
 │
 ├─🌟 <b>stack</b>
 │ ├─ javascript (react, node, next)
@@ -31,13 +44,8 @@
 └─👀 <img height="15px" src="https://komarev.com/ghpvc/?username=rezanii" alt="rezanii">
 </pre>
 
-
-<p align="center">
-  <a href="https://github.com/rezanii">
-    <img align="left" src="https://github.com/rezanii/gitstat/blob/master/generated/languages.svg" />
-  </a>
-  <a href="https://github.com/rezanii">
-    <img align="right" src="https://github.com/rezanii/gitstat/blob/master/generated/overview.svg" />
-  </a>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=rezanii&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezanii&layout=compact" height=180 />
 </p>
 
