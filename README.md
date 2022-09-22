@@ -4,7 +4,7 @@
 + Hi! My name is Ahmad Ridwan Rezani! 👋
 + I'm a Software Engineer from Indonesia! 🇮🇩
 
-Currently working with Process Automation, but I love learn new thing in programming such as Javascript, Kotlin, Python.  
+Currently working with Process Automation, but I love learn new thing in programming. i am a troubleshooters guy, mostly solve IT Problem, Software or Hardware, my experience in coding, can make me to solve any Programming language bug. 
 </pre>
 
 ### Tools:
@@ -23,7 +23,6 @@ Currently working with Process Automation, but I love learn new thing in program
 │ ├─ 🟩 <a href="https://www.smartfren.com/">Smartfren</a> - <b>Software Engineer in Engineering Productivity</b>
 │ ├─ 🏫 <a href="https://telkomuniversity.ac.id">Universitas Telkom</a> - <b>Bachelor Informatics Engineering</b>
 | ├─ 🏫 <a href="https://binus.ac.id">Universitas Bina Nusantara</a> - <b>Master Informatics Engineering</b>
-│ └─ 🛑 <a href="https://bangkit.academy/">Bangkit Academy</a> - Machine Learning Path, 2022
 │ └─ 👯 I’m looking to collaborate on Automation Project, Mobile Apps.
 │ └─ 💬 Ask me about anything.
 │
