@@ -20,7 +20,6 @@ Currently working with Process Automation, but I love learn new thing in program
 👨‍💻 <b>/home/arrezani</b>
 │
 ├─📦 <b>journey</b>
-│ ├─ 🟩 <a href="https://www.smartfren.com/">Smartfren</a> - <b>Software Engineer in Engineering Productivity</b>
 │ ├─ 🏫 <a href="https://telkomuniversity.ac.id">Universitas Telkom</a> - <b>Bachelor Informatics Engineering</b>
 | ├─ 🏫 <a href="https://binus.ac.id">Universitas Bina Nusantara</a> - <b>Master Informatics Engineering</b>
 │ └─ 👯 I’m looking to collaborate on Automation Project, Mobile Apps.
