@@ -7,6 +7,8 @@
 Currently working with Process Automation, but I love learn new thing in programming. i am a troubleshooters guy, mostly solve IT Problem, Software or Hardware, my experience in coding, can make me to solve any Programming language bug. 
 </pre>
 
+<img align="right" alt="Coding" width="400" src="https://www.eurekabookhouse.co.id/assets/front/images/androDev.gif">
+
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
