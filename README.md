@@ -15,7 +15,6 @@ Currently working with Process Automation, but I love learn new thing in program
     <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
     <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://gpvc.arturio.dev/rezanii" />
 </p>
 
 <pre>
@@ -44,7 +43,7 @@ Currently working with Process Automation, but I love learn new thing in program
 </pre>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=rezanii&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rezanii&theme=vue-dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezanii&layout=compact" height=180 />
 </p>
 
